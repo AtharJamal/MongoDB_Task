@@ -1,0 +1,6 @@
+2022-02-25/19:14:57		About to start the file reading operation
+2022-02-25/19:14:57		Data Load Successful.Exited the csv_reader method of the fileread class
+2022-02-26/07:32:33		About to start the file reading operation
+2022-02-26/07:32:33		Data Load Successful.Exited the csv_reader method of the fileread class
+2022-02-26/07:57:12		About to start the file reading operation
+2022-02-26/07:57:12		Data Load Successful.Exited the csv_reader method of the fileread class

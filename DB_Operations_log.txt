@@ -1,0 +1,25 @@
+2022-02-25/21:43:52		About to start Mongo DB connection
+2022-02-25/21:43:57		Connection established of Python IDE with MongoDB
+2022-02-25/21:44:56		About to start Mongo DB connection
+2022-02-25/21:45:00		Connection established of Python IDE with MongoDB
+2022-02-25/21:46:13		About to start Mongo DB connection
+2022-02-25/21:46:18		Connection established of Python IDE with MongoDB
+2022-02-25/21:50:28		About to start Mongo DB connection
+2022-02-25/21:50:33		Connection established of Python IDE with MongoDB
+2022-02-25/21:50:56		About to start Mongo DB connection
+2022-02-25/21:51:00		Connection established of Python IDE with MongoDB
+2022-02-25/21:55:52		About to start Mongo DB connection
+2022-02-25/21:55:57		Connection established of Python IDE with MongoDB
+2022-02-25/22:02:39		About to start Mongo DB connection
+2022-02-25/22:02:43		Connection established of Python IDE with MongoDB
+2022-02-26/07:32:47		About to start Mongo DB connection
+2022-02-26/07:32:48		Connection established of Python IDE with MongoDB
+2022-02-26/07:45:25		About to start Mongo DB connection
+2022-02-26/07:59:28		About to start Mongo DB connection
+2022-02-26/07:59:30		Connection established of Python IDE with MongoDB
+2022-02-26/08:00:30		About to start Mongo DB connection
+2022-02-26/08:00:31		Connection established of Python IDE with MongoDB
+2022-02-26/08:01:43		About to start Mongo DB connection
+2022-02-26/08:01:44		Connection established of Python IDE with MongoDB
+2022-02-26/08:11:22		About to start Mongo DB connection
+2022-02-26/08:11:26		Connection established of Python IDE with MongoDB
